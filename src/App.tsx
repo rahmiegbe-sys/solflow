@@ -5,7 +5,8 @@ export default function App() {
   return (
     <main className="placeholder">
       <p className="label">Project 2 · In development</p>
-      <h1>Solar Microgrid &amp; Power-Outage Optimizer</h1>
+      <h1>SolFlow</h1>
+      <p className="lede">Solar Microgrid &amp; Power-Outage Optimizer</p>
       <p className="lede">
         A time-step model of a solar PV and battery system for a Nigerian school, asking how much essential demand it can
         keep running when the grid fails.
