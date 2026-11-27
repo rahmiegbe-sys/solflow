@@ -27,3 +27,10 @@ h1 {
   font-size: 14px;
   color: #8a8fa6;
 }
+
+.note + .note {
+  margin-top: 12px;
+}
+.note a {
+  color: #e0a040;
+}

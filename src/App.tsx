@@ -11,6 +11,9 @@ export default function App() {
         keep running when the grid fails.
       </p>
       <p className="note">The simulation will appear here once the model has been derived, built and validated.</p>
+      <p className="note">
+        <a href="/story.html">The story behind the project</a>
+      </p>
     </main>
   )
 }

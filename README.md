@@ -2,6 +2,8 @@
 
 > **In development.** This repository will hold the model, tests and interactive simulation as they are built.
 
+**Live:** [solar-microgrid.vercel.app](https://solar-microgrid.vercel.app) · **The story:** [solar-microgrid.vercel.app/story.html](https://solar-microgrid.vercel.app/story.html)
+
 **Research question:** how can a solar photovoltaic and battery-storage system be modelled and sized to support the essential electricity demand of a Nigerian school during unreliable grid supply?
 
 The project is motivated by the educational infrastructure challenges I explored through FRIEDA (Focusing Resources In Education for the Development of Africa).
